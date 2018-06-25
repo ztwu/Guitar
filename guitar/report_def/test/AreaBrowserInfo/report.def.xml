@@ -9,7 +9,7 @@
 
     <output>
         <type>mysql</type>
-		<param ip="localhost" port="3306" user="root" passwd="123456" dbName="test"/>
+		<param ip="192.168.1.101" port="3306" user="root" passwd="123456" dbName="guitar"/>
     </output>
 	
 	<!--<config type="HDFS" id="filterBrowser">-->
